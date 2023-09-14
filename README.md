@@ -114,9 +114,9 @@ The Interactiy(Instagram Clone) app offers a seamless social media experience, w
 <img width="412" alt="image" src="https://github.com/PatelPruthvi/interactify/assets/71627511/c8e98c53-a79d-4e0f-8c7f-b2a98f174f5d">
 <img width="412" alt="image" src="https://github.com/PatelPruthvi/interactify/assets/71627511/b7296084-26b5-4424-a74c-aba0d3184959">
 <img width="412" alt="image" src="https://github.com/PatelPruthvi/interactify/assets/71627511/4be8ad00-abcb-45ac-8255-30a8dd4c0918">
-<img width="456" alt="image" src="https://github.com/PatelPruthvi/interactify/assets/71627511/21448f7a-033b-4324-9111-d601dace46cb">
-<img width="456" alt="image" src="https://github.com/PatelPruthvi/interactify/assets/71627511/85697674-2ee5-41f8-ac85-885612183b56">
-<img width="456" alt="image" src="https://github.com/PatelPruthvi/interactify/assets/71627511/3026b43c-ad0b-4aac-98cd-9c80fc590fc2">
+<img width="412" alt="image" src="https://github.com/PatelPruthvi/interactify/assets/71627511/21448f7a-033b-4324-9111-d601dace46cb">
+<img width="412" alt="image" src="https://github.com/PatelPruthvi/interactify/assets/71627511/85697674-2ee5-41f8-ac85-885612183b56">
+<img width="412" alt="image" src="https://github.com/PatelPruthvi/interactify/assets/71627511/3026b43c-ad0b-4aac-98cd-9c80fc590fc2">
 
 
 
