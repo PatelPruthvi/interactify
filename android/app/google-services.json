@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "456044463832",
+    "project_id": "instaclone-13bc9",
+    "storage_bucket": "instaclone-13bc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456044463832:android:d53fa174a92b8d686bb9ad",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456044463832-fpottni13la2ho4bfsmmflgqjvdl70sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "9fcb92c4c13e4319a089ce833b6497eeceeaa19f"
+          }
+        },
+        {
+          "client_id": "456044463832-rgfc21334cua5n2ed0hcb2jci4j4j7sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcDRwfjeUKFOpE3cODu9VArrHVEJbitIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456044463832-rgfc21334cua5n2ed0hcb2jci4j4j7sf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456044463832-ptn9gjo2qttvg5kesmlti18q6v97ks82.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
