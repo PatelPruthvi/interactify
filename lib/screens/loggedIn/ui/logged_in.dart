@@ -4,7 +4,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'package:chat_app/models/users_model.dart';
 import 'package:chat_app/screens/loggedIn/bloc/login_bloc.dart';
 import 'package:chat_app/screens/notifications_page/ui/notif_screen.dart';
 import 'package:chat_app/screens/profile_page/ui/profile_page_screen.dart';

@@ -6,9 +6,7 @@ import 'package:chat_app/models/notification_model.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:intl/intl.dart';
 import 'package:meta/meta.dart';
-import 'package:uuid/uuid.dart';
 
 part 'comment_event.dart';
 part 'comment_state.dart';

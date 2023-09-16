@@ -1,4 +1,3 @@
-import 'package:chat_app/screens/home/bloc/home_bloc.dart';
 import 'package:chat_app/screens/signupwithemail/bloc/signup_bloc.dart';
 import 'package:chat_app/widgets/widgets.dart';
 import 'package:flutter/cupertino.dart';

@@ -4,7 +4,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'package:chat_app/screens/home/bloc/home_bloc.dart';
 import 'package:chat_app/screens/loggedIn/ui/logged_in.dart';
 import 'package:chat_app/screens/set_username/bloc/usernm_bloc.dart';
 import 'package:chat_app/widgets/widgets.dart';
