@@ -51,7 +51,7 @@ class _SignUpMailScreenState extends State<SignUpMailScreen> {
               SizedBox(
                 height: MediaQuery.of(context).size.height * 0.25,
                 child: Image.network(
-                    'https://www.transparentpng.com/thumb/logo-instagram/orzG9u-instagram-picture-logo-png.png',
+                    'https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-png-full-colour-glyph.png',
                     height: MediaQuery.of(context).size.height * 0.1,
                     width: MediaQuery.of(context).size.height * 0.1),
               ),

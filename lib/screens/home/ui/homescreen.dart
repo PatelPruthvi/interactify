@@ -91,7 +91,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         SizedBox(
                           height: MediaQuery.of(context).size.height * 0.2,
                           child: Image.network(
-                              'https://www.transparentpng.com/thumb/logo-instagram/orzG9u-instagram-picture-logo-png.png',
+                              'https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-png-full-colour-glyph.png',
                               height: MediaQuery.of(context).size.height * 0.1,
                               width: MediaQuery.of(context).size.height * 0.1),
                         ),
@@ -195,7 +195,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                           MainAxisAlignment.center,
                                       children: [
                                         Image.network(
-                                          'https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/2008px-Google_%22G%22_Logo.svg.png',
+                                          'https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-webinar-optimizing-for-success-google-business-webinar-13.png',
                                           height: MediaQuery.of(context)
                                                   .size
                                                   .width *
